@@ -1,1 +1,1 @@
-[Terminal Demo](https://github.com/your-username/your-repo/raw/main/demo.gif)
+[Terminal Demo] (https://github.com/vvedenskaya/Voigh-Kampff-Test/blob/master/demo.gif)
